@@ -1,0 +1,57 @@
+// Section1.scss
+@import "../colors.scss";
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;900&display=swap');
+
+.section1-container {
+  background-image: url(../assets/wall.jpeg);
+  background-size: cover;
+  background-position: center;
+  color: $white-color; /* Set text color to white for better visibility */
+  height: 95vh;
+  width: 100%;
+  position: relative;
+  overflow-x: hidden;
+  opacity: 0.9;
+
+  .hero-cta {
+    padding: 20px;
+    bottom: 150px;
+    position: absolute;
+    text-shadow: 4px 4px 6px rgba(0, 0, 0, 0.8);
+  }
+
+  h1 {
+    margin-bottom: 30px;
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 4rem;
+    font-weight: 900;
+    letter-spacing: 1px;
+    font-family: 'Montserrat', sans-serif;
+  }
+
+  @media screen and (max-width: 995px) {
+    h1 {
+      font-size: 3rem;
+    }
+  }
+
+  @media screen and (max-width: 768px) {
+    h1 {
+      font-size: 2.5rem;
+    }
+  }
+
+  .btn {
+    font-size: 1rem; /* Adjust font size as needed */
+  }
+  .btn:hover {
+    background-color: $primary-color;
+    color: white;
+    border: 1px solid $primary-color;
+  }
+
+  .btn-text {
+    font-weight: bold;
+  }
+}
