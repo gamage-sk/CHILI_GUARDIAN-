@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/CHILI_GUARDIAN-/static/css/main.753001f6.css",
+    "main.js": "/CHILI_GUARDIAN-/static/js/main.e9fcc2ff.js",
+    "static/media/mobile.mp4": "/CHILI_GUARDIAN-/static/media/mobile.a55396db643860a956f0.mp4",
+    "static/media/sk.png": "/CHILI_GUARDIAN-/static/media/sk.62586573f4a28e476c71.png",
+    "static/media/nipun.png": "/CHILI_GUARDIAN-/static/media/nipun.d01d1fafb1f954f43577.png",
+    "static/media/dhana.png": "/CHILI_GUARDIAN-/static/media/dhana.801217534d256046d87f.png",
+    "static/media/diagram1.png": "/CHILI_GUARDIAN-/static/media/diagram1.4b981a310bfb338adb15.png",
+    "static/media/wall.jpeg": "/CHILI_GUARDIAN-/static/media/wall.c6e7160370a8d6f43112.jpeg",
+    "static/media/arduino.png": "/CHILI_GUARDIAN-/static/media/arduino.51319eb1c9d57bd3dd28.png",
+    "static/media/vs.png": "/CHILI_GUARDIAN-/static/media/vs.19edc3fbac1c451f289d.png",
+    "static/media/supvisor.jpg": "/CHILI_GUARDIAN-/static/media/supvisor.1ddc1aec4cb620956446.jpg",
+    "static/media/logo1.png": "/CHILI_GUARDIAN-/static/media/logo1.6aeccbcef3023c0303c2.png",
+    "static/media/PyCharm.png": "/CHILI_GUARDIAN-/static/media/PyCharm.32b15c2f9472994fa271.png",
+    "static/media/Tensorflow.png": "/CHILI_GUARDIAN-/static/media/Tensorflow.42ff285e754b23972de0.png",
+    "static/media/gr1.png": "/CHILI_GUARDIAN-/static/media/gr1.0b89fd8d8dc7644513eb.png",
+    "static/media/Keras.png": "/CHILI_GUARDIAN-/static/media/Keras.d7c9b71a86b2d066cde8.png",
+    "static/media/Reacticon.png": "/CHILI_GUARDIAN-/static/media/Reacticon.90ecc11b909803e41330.png",
+    "static/media/gr2.png": "/CHILI_GUARDIAN-/static/media/gr2.e1ec84043581f32da072.png",
+    "static/media/JavaScript.png": "/CHILI_GUARDIAN-/static/media/JavaScript.49af7f28ec2699f6d7f5.png",
+    "static/media/pytorch.png": "/CHILI_GUARDIAN-/static/media/pytorch.2aaa762785e20b4bf49f.png",
+    "index.html": "/CHILI_GUARDIAN-/index.html",
+    "main.753001f6.css.map": "/CHILI_GUARDIAN-/static/css/main.753001f6.css.map",
+    "main.e9fcc2ff.js.map": "/CHILI_GUARDIAN-/static/js/main.e9fcc2ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.753001f6.css",
+    "static/js/main.e9fcc2ff.js"
+  ]
+}
