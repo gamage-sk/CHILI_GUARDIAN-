@@ -112,7 +112,7 @@ const Documents = () => {
                     />
                     Status Documents I
                   </h5>
-                  <p className="card-text pt-sm-2">Submitted on 2023/09/06</p>
+                  <p className="card-text pt-sm-2">Submitted on 2023/05/22</p>
                 </div>
                 <ul className="download-items list-group list-group-flush">
                   <li className="list-group-item">
@@ -140,9 +140,7 @@ const Documents = () => {
                     />
                     Status Documents II
                   </h5>
-                  <p className="card-text pt-sm-2">
-                    Yet to be submitted, link will be updated soon.
-                  </p>
+                  <p className="card-text pt-sm-2">Submitted on 2023/9/06</p>
                 </div>
                 <ul className="download-items list-group list-group-flush">
                   <li className="list-group-item">
@@ -170,9 +168,7 @@ const Documents = () => {
                     />
                     Research Paper
                   </h5>
-                  <p className="card-text pt-sm-2">
-                    Yet to be submitted, link will be updated soon.
-                  </p>
+                  <p className="card-text pt-sm-2">Submitted on 2023/08/15</p>
                 </div>
                 <ul className="download-items list-group list-group-flush">
                   <li className="list-group-item">
@@ -360,9 +356,7 @@ const Documents = () => {
                     />
                     Final Presentation
                   </h5>
-                  <p className="card-text pt-sm-2">
-                    Yet to be submitted, link will be updated soon.
-                  </p>
+                  <p className="card-text pt-sm-2">Submitted on 2023/11/01</p>
                 </div>
                 <ul className="download-items list-group list-group-flush">
                   <li className="list-group-item">
