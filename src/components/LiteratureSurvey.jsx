@@ -3,6 +3,7 @@ import Container from "react-bootstrap/esm/Container";
 import "./LiteratureSurvey.scss";
 import gr2 from "../assets/gr2.png";
 import gr1 from "../assets/gr1.png";
+import chilli from "../assets/chilli.png";
 
 const LiteratureSurvey = () => {
   return (
@@ -17,6 +18,23 @@ const LiteratureSurvey = () => {
       <div className="row">
         <div id="project-scope-left" className="col-md-6 col-sm-12 pt-lg-5">
           <div className="section-left">
+            <div className="section-info-div">
+              <div className="row">
+                <div className="col-sm-5 image-container">
+                  <img src={chilli} alt="Bell Paper Disease" />
+                </div>
+                <div
+                  className="col-sm-7 text-col text-justify"
+                  style={{
+                    textAlign: "justify",
+                  }}
+                >
+                  Sri Lanka is the 75th largest exporter of chili in the world.{" "}
+                  {""}
+                  <span style={{ color: "grey", fontSize: "12px" }}>[1]</span>
+                </div>
+              </div>
+            </div>
             <div className="section-figure mt-5">
               <img
                 style={{ alignItems: "center" }}
