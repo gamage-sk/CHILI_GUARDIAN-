@@ -240,7 +240,7 @@ const Documents = () => {
                   <li className="list-group-item">
                     Group
                     <a
-                      href="https://drive.google.com/file/d/1uXVaaX4nqiGiqTAj7-JVHlgJ3XlHQQ3h/view?usp=sharing"
+                      href="https://drive.google.com/file/d/1HNixjLQ8S_IVQUcUXWc0YlTfPKaQq5cX/view?usp=drive_link"
                       target="_blank"
                       rel="noreferrer"
                     >
