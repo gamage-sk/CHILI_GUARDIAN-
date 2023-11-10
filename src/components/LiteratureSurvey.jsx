@@ -20,7 +20,7 @@ const LiteratureSurvey = () => {
           <div className="section-left">
             <div className="section-info-div">
               <div className="row">
-                <div className="col-sm-5 image-container">
+                <div className="col-sm-4 image-container">
                   <img src={world} alt="Bell Paper Disease" />
                 </div>
                 <div

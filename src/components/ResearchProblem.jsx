@@ -112,7 +112,7 @@ const ResearchProblem = () => {
           selection, and precise nutrient management strategies. Integrating
           technology with agriculture enhances the economic stability of
           farmers, strengthens the agricultural sector, and contributes to the
-          overall prosperity of the nation
+          overall prosperity of the nation.
         </p>
       </div>
     </Container>
