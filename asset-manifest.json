@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/CHILI_GUARDIAN-/static/css/main.5b24a1e8.css",
-    "main.js": "/CHILI_GUARDIAN-/static/js/main.13c98258.js",
+    "main.js": "/CHILI_GUARDIAN-/static/js/main.aa50d717.js",
     "static/media/mobile.mp4": "/CHILI_GUARDIAN-/static/media/mobile.a55396db643860a956f0.mp4",
+    "static/media/chilli.png": "/CHILI_GUARDIAN-/static/media/chilli.cf823d3c5e6e88028e63.png",
     "static/media/sk.png": "/CHILI_GUARDIAN-/static/media/sk.62586573f4a28e476c71.png",
     "static/media/nipun.png": "/CHILI_GUARDIAN-/static/media/nipun.d01d1fafb1f954f43577.png",
     "static/media/dhana.png": "/CHILI_GUARDIAN-/static/media/dhana.801217534d256046d87f.png",
@@ -22,10 +23,10 @@
     "static/media/pytorch.png": "/CHILI_GUARDIAN-/static/media/pytorch.2aaa762785e20b4bf49f.png",
     "index.html": "/CHILI_GUARDIAN-/index.html",
     "main.5b24a1e8.css.map": "/CHILI_GUARDIAN-/static/css/main.5b24a1e8.css.map",
-    "main.13c98258.js.map": "/CHILI_GUARDIAN-/static/js/main.13c98258.js.map"
+    "main.aa50d717.js.map": "/CHILI_GUARDIAN-/static/js/main.aa50d717.js.map"
   },
   "entrypoints": [
     "static/css/main.5b24a1e8.css",
-    "static/js/main.13c98258.js"
+    "static/js/main.aa50d717.js"
   ]
 }
