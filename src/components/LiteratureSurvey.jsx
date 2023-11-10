@@ -3,7 +3,7 @@ import Container from "react-bootstrap/esm/Container";
 import "./LiteratureSurvey.scss";
 import gr2 from "../assets/gr2.png";
 import gr1 from "../assets/gr1.png";
-import chilli from "../assets/chilli.png";
+import world from "../assets/world.jpg";
 
 const LiteratureSurvey = () => {
   return (
@@ -21,7 +21,7 @@ const LiteratureSurvey = () => {
             <div className="section-info-div">
               <div className="row">
                 <div className="col-sm-5 image-container">
-                  <img src={chilli} alt="Bell Paper Disease" />
+                  <img src={world} alt="Bell Paper Disease" />
                 </div>
                 <div
                   className="col-sm-7 text-col text-justify"
